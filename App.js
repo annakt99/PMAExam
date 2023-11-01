@@ -8,6 +8,8 @@ import { Navigation } from "./src/infrastructure/navigation";
 export default function App() {
 
 
+
+  //HEJ 
   return (
     <>
         <AuthenticationContextProvider>
